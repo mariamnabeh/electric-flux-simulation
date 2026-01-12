@@ -49,8 +49,9 @@ This simulation numerically verifies this equation.
 - VPython  
 
 Install VPython using:
-git clone https://github.com/your-username/gauss-law-vpython.git
+git clone https://github.com/mariamnabeh/electric-flux-simulation.git
 python gauss_simulation.py
 
 ```bash
 pip install vpython
+
