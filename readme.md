@@ -57,11 +57,11 @@ Install VPython using:
 git clone https://github.com/mariamnabeh/electric-flux-simulation.git
 cd electric-flux-simulation
 python gauss_simulation.py
+```
 
 
 
-
-## 🙏 Credits
+### 🙏 Credits
 
 This project was inspired by the educational video:
 
