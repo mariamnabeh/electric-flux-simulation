@@ -3,10 +3,7 @@
 This project is a 3D visualization and numerical simulation of **Gauss’s Law** using **VPython**.  
 It computes the electric flux through a spherical Gaussian surface enclosing two point charges and verifies Gauss’s law:
 
-\[
-\Phi = \frac{Q_{\text{enclosed}}}{\varepsilon_0}
-\]
-
+Φ = Q_enclosed / ε₀
 ---
 
 ## 🔬 Project Description
@@ -50,6 +47,22 @@ This simulation numerically verifies this equation.
 
 Install VPython using:
 git clone https://github.com/mariamnabeh/electric-flux-simulation.git
+
+
+
+
+## 🙏 Credits
+
+This project was inspired by the educational video:
+
+**Gauss's Law Visualization and Simulation**
+https://youtu.be/rQEBjzzYS7g
+
+The video provided valuable insights into the visualization of electric flux and Gaussian surfaces using VPython.
+Special thanks to the creator for the educational content and inspiration behind this project.
+
+
+
 python gauss_simulation.py
 
 ```bash
